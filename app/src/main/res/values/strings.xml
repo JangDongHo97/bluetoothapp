@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">bluetooth</string>
+    <string name="app_name">HS블루투스</string>
+    <string name="bluetoothOn">블루투스 ON</string>
+    <string name="btnScan">Scan</string>
+    <string name="bluetoothOff">블루투스 OFF</string>
+    <string name="bluetoothStatus">status</string>
+    <string name="domain1">H.S_Korea</string>
+    <string name="domain2">bluetooth controller</string>
 </resources>
